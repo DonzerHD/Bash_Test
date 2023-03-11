@@ -14,5 +14,3 @@
 
 #let  'number = 145 + 5'
 
-result=$((34 + 33))
-echo $result
